@@ -109,8 +109,5 @@ def responder(msg):
 
 bot.polling()
 
-# Como hospedar o bot no heroku
-# 1 - Criar uma conta no heroku
-# 2 - Criar um novo app
-# 3 - Conectar o app ao github
-# 4 - Escolher o repositório
+" ONDE HOSPEDAR BOT TELEGRAM "
+# n
