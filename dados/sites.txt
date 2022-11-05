@@ -1,0 +1,11 @@
+127.0.0.2 tabnews.com.br
+127.0.0.3 krunker.io
+127.0.0.4 poki.com.br
+127.0.0.5 agar.io
+127.0.0.6 www.clickjogos.com.br
+127.0.0.7 www.jogos360.com.br
+127.0.0.8 www.jogos123.net
+127.0.0.9 www.jogosjogos.com
+127.0.0.10 www.instagram.com
+127.0.0.11 twitter.com
+127.0.0.1 www.facebook.com
